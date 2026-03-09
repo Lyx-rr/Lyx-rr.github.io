@@ -16,7 +16,7 @@ Github: https://github.com/Lyx-rr
 
 ## People
 ### Directer
-- Yuxiang Li https://chengjun.github.io/
+- Yuxiang Li https://Lyx-rr.github.io/
 
 
 🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
